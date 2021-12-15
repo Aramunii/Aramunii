@@ -50,7 +50,7 @@ class About extends Me
 <a href="https://github.com/Aramunii/movie-db-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=movie-db-client&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="movie-db-client" />
 </a>
-
+<p>
 <a href="https://github.com/Aramunii/characters-voice-tts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=characters-voice-tts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="chracters-voice-tts" />
 </a>
