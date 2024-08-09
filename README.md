@@ -47,6 +47,10 @@ class About extends Me
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=SpotifyGuessHTML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SpotifyGuessHTML" />
 </a>
 
+<a href="https://github.com/Aramunii/SpotifyGuessHTML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=SpotifyGuessHTML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SpotifyGuessHTML" />
+</a>
+
 <a href="https://github.com/Aramunii/aws-polly-node">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=aws-polly-node&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="aws-polly-node" />
 </a>
