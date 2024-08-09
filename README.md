@@ -18,8 +18,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Support Health',
-                'position' => 'Developer'         
+                'company' => 'Little Devil Inc',
+                'position' => 'Game Developer'         
             ]
         ];
     }
@@ -32,6 +32,10 @@ class About extends Me
             Laravel::class,
             ReactNative::class,
             NodeJS::class,
+            LUA:class,
+            C#::class,
+            Unity::class,
+            Unreal::class,
         ];
     }
 
@@ -43,24 +47,22 @@ class About extends Me
 ```
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Aramunii/SpotifyGuessHTML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=SpotifyGuessHTML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SpotifyGuessHTML" />
-</a>
+### [WikiConnect](https://github.com/yourusername/WikiConnect)
+**WikiConnect** is an engaging and educational game that challenges players to connect two Wikipedia articles by navigating through other articles with the fewest clicks possible. The game tests your knowledge of various topics, your understanding of how different subjects are interrelated, and your ability to think strategically.
 
-<a href="https://github.com/Aramunii/SpotifyGuessHTML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=SpotifyGuessHTML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SpotifyGuessHTML" />
-</a>
+**Features:**
+- Random or manual selection of starting and ending articles.
+- Live visualization of your path as you connect articles.
 
-<a href="https://github.com/Aramunii/aws-polly-node">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=aws-polly-node&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="aws-polly-node" />
-</a>
+---
 
-<a href="https://github.com/Aramunii/movie-db-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=movie-db-client&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="movie-db-client" />
-</a>
-<p>
-    
-<a href="https://github.com/Aramunii/characters-voice-tts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aramunii&repo=characters-voice-tts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="chracters-voice-tts" />
-</a>
+### [SpotyGuess](https://github.com/yourusername/SpotyGuess)
+**SpotyGuess** is an interactive music guessing game that integrates with the Spotify API. The goal is to identify songs or artists by listening to short snippets. Choose your challenge by selecting a specific artist, playlist, or even using a custom playlist.
+
+**Features:**
+- Search and play with your favorite artists or playlists.
+- Two game modes: Standard (incremental time) and Against the Clock.
+- Dynamic gameplay with the option to guess a set number of songs or play until you make a mistake.
+
+---
 
